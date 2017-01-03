@@ -7,3 +7,4 @@ Installed mods:
 
 Installed plugins:
 * Nade tails (Disabled on default) 
+* Pug-setup (Disabled auto-live)
