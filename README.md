@@ -8,3 +8,4 @@ Installed mods:
 Installed plugins:
 * Nade tails (Disabled on default) 
 * Pug-setup (Disabled auto-live)
+* Multi 1v1 (used as warmup)
